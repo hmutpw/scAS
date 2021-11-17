@@ -4,7 +4,7 @@ Single-cell architecture and functional requirement of alternative splicing duri
 
 #### 1. these files contains scripts for single cell RNA-seq analysis codes for expression level and AS level. 
 
-The codes and all the material also deposited in Zenodo: . For more information, please contact bioinfo_wen@163.com. 
+The codes and all the material also deposited in Zenodo:10.5281/zenodo.5706613. For more information, please contact bioinfo_wen@163.com. 
 
 1. AS_event_pre_processing: The codes for pre-processing of alternative splicing (AS) events ids from MISO.
 2. AS_modality_analysis: The codes for AS events modality analysis and visualization.
